@@ -1,34 +1,22 @@
  <center>
      <h1>About Me</h1>
      <div>
-         <!-- <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             18013768351
-         </span>
-         · -->
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
              yfsun99@stu.suda.edu.cn.com
          </span>
-         <!-- ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span> -->
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <a href="#">My HomePage</a>
          </span>
      </div>
  </center>
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> Profile
 
- - Yifei Sun (孙羿斐), A Ph.D student majoring in Computational Mathematics
- <!-- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填） -->
+ - Yifei Sun (孙羿斐), A Ph.D. student majoring in Computational Mathematics
+
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
@@ -37,8 +25,9 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Publication
 
-- 
--
+- Advantages of a semi-implicit scheme over a fully implicit scheme for Landau-Lifshitz-Gilbert equation, Arkiv
+- Yeast-derived nanoparticles remodel the immunosuppressive microenvironment in tumor and tumor-draining lymph nodes to suppress tumor growth. Nat Commun 13, 110 (2022).
+
 
 
 
