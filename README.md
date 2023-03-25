@@ -13,7 +13,7 @@
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> Profile
+## <img src="assets/info-circle-solid.svg" width="30px"> Profile
 
  - Yifei Sun (孙羿斐), A Ph.D. student majoring in Computational Mathematics
 
