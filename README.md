@@ -25,7 +25,7 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Publication
 
-- Advantages of a semi-implicit scheme over a fully implicit scheme for Landau-Lifshitz-Gilbert equation, Arkiv
+- Advantages of a semi-implicit scheme over a fully implicit scheme for Landau-Lifshitz-Gilbert equation. Discrete and Continuous Dynamical Systems - B.
 - Yeast-derived nanoparticles remodel the immunosuppressive microenvironment in tumor and tumor-draining lymph nodes to suppress tumor growth. Nat Commun 13, 110 (2022).
 
 
