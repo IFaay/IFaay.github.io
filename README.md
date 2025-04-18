@@ -25,6 +25,7 @@
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Publication
 
+- Two-level random feature methods for elliptic partial differential equations over complex domains, Computer Methods in Applied Mechanics and Engineering
 - Advantages of a semi-implicit scheme over a fully implicit scheme for Landau-Lifshitz-Gilbert equation. Discrete and Continuous Dynamical Systems - B.
 - Yeast-derived nanoparticles remodel the immunosuppressive microenvironment in tumor and tumor-draining lymph nodes to suppress tumor growth. Nat Commun 13, 110 (2022).
 - Optimization of Random Feature Method in the High-Precision Regime. Com Appl Math Comput.
